@@ -44,9 +44,6 @@ plugins:
   - jekyll-mentions
 
 collections:
-   community:
-      output: true
-      permalink: /community/:path/
    team:
       output: true
       permalink: /committee/:path/

@@ -3,6 +3,10 @@ layout: default
 permalink: /combs/
 title: Explore combs
 ---
+
+<div class="alert alert-danger">The combs section will be populated shortly</div>
+
+
 <div class="container mb-3">
   <div class="row">
   {% assign rows = site.combs.size | divided_by: 2.0 | ceil %}

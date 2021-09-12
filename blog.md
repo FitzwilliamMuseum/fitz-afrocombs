@@ -4,7 +4,7 @@ permalink: /blog/
 title: Project blog
 ---
 
-{% for post in site.blog reversed %}
+{% for post in site.posts reversed %}
 <div class="card col-md-12 mb-3">
     <div class="card-body">
       {% if post.thumbnail %}

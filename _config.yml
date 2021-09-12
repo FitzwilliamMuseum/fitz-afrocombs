@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Site title"
-email: "crsid@cam.ac.uk"
+title: "Origins of the Afro comb"
+email: "dejp3@cam.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
-  "Website description"
-baseurl: "/reponame" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  "Hair and grooming have always played an important role in the culture of Africa and the African Diaspora. The traditional African comb or pick has played a crucial role in the creation, maintenance, and decoration of hair-styles for both men and women."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://afrocombs.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
-background: ""
+background: "/images/Home_Header.jpeg"
 main_url: 'https://fitzmuseum.cam.ac.uk'
 google_analytics: 'G-2R0YLY9DRS'
 # Build settings
@@ -43,16 +43,24 @@ plugins:
   - jekyll-mentions
 
 collections:
-   exhibition:
+   community:
       output: true
-   about:
-      output: true
-   resources:
-      output: true
+      permalink: /community/:path/
    team:
       output: true
+      permalink: /committee/:path/
    blog:
       output: true
+      permalink:  /notices/:path/
+   video:
+      output: true
+      permalink: /video/:path/
+   audio:
+      output: true
+      permalink: /audio/:path/
+   combs:
+      output: true
+      permalink: /combs/:path/
 feed:
   collections:
     - blog

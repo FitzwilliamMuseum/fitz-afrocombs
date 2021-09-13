@@ -14,7 +14,7 @@ To explore the Afro combs included in this project, you can navigate several way
   {% assign rows = site.countries.size | divided_by: 2.0 | ceil %}
   {% for i in (1..rows) %}
   {% assign offset = forloop.index0 | times: 2 %}
-  {% assign sorted = site.countries | sort:"order" %}
+  {% assign sorted = site.countries | sort:"title" %}
       {% for author in sorted limit:2 offset:offset %}
       <div class="col-md-4 mb-3">
         <div class="card h-100" >

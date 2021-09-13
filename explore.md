@@ -3,6 +3,12 @@ layout: default
 permalink: /combs/
 title: Explore combs
 ---
+To explore the Afro combs included in this project, you can navigate several ways:
+
+* by country of origin below
+* by a [map interface](/combs/map)
+* by a [timeline](/combs/timeline) (links to be enabled shortly)
+
 <div class="container mb-3">
   <div class="row">
   {% assign rows = site.countries.size | divided_by: 2.0 | ceil %}

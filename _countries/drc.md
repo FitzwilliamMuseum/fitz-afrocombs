@@ -3,6 +3,7 @@ permalink: /combs/drc/
 title: Combs from Democratic Republic of the Congo
 layout: default
 label: DRC
+image: https://static.portal.maa.cam.ac.uk/portal-assets/media/library_images/thumbnail/662125_1948.2339_A_001.jpg
 ---
 <div class="container mb-3">
   <div class="row">

@@ -3,6 +3,7 @@ permalink: /combs/rwanda/
 title: Combs from Rwanda
 layout: default
 label: Rwanda
+image: https://static.portal.maa.cam.ac.uk/portal-assets/media/library_images/web/662121_1948.2338_A_001.png
 ---
 <div class="container mb-3">
   <div class="row">

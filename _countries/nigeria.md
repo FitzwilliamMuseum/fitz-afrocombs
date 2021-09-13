@@ -3,6 +3,7 @@ permalink: /combs/nigeria/
 title: Combs from Nigeria
 layout: default
 label: Nigeria
+image: https://static.portal.maa.cam.ac.uk/portal-assets/media/library_images/thumbnail/585702_2012.19_001.png
 ---
 <div class="container mb-3">
   <div class="row">

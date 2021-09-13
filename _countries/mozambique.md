@@ -3,6 +3,7 @@ permalink: /combs/mozambique/
 title: Combs from Mozambique
 layout: default
 label: Mozambique
+image: https://static.portal.maa.cam.ac.uk/portal-assets/media/library_images/thumbnail/759667_E_1916.31.7-9_001.png
 ---
 <div class="container mb-3">
   <div class="row">

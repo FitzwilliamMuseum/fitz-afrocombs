@@ -5,7 +5,7 @@ image:
 institution:
 job-title:
 layout: default
-order: 2
+surname: Clarkson
 ---
 
 I found a plastic comb trodden into the ground in front of our house in Kumasi. What caught my attention was a slight distortion of the prongs, suggesting vigorous use. The prints made from this image are the only record as the comb is now lost, probably thrown away. Unlike other objects in the studio, the comb, though beautiful, was too personal. Like a used toothbrush.

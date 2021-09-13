@@ -5,7 +5,7 @@ image: "/images/team/Sally-Ann2.jpeg"
 institution: "The Fitzwilliam Museum"
 job-title: "Project curator"
 layout: default
-order: 1
+surname: Ashton
 ---
 Sally-Ann Ashton is Senior Assistant Keeper in the Department of Antiquities at the Fitzwilliam Museum in Cambridge, where she looks after material from Ancient Egypt and Sudan. She studied Ancient Greek at the University of Manchester, and then Classical Archaeology at King's College London, where she completed her PhD on Egyptian royal sculpture in 1999.
 

@@ -5,7 +5,7 @@ image: "/images/team/felicity_heywood_tny3.jpeg"
 institution:
 job-title:
 layout: default
-order: 2
+surname: Heywood
 ---
 Felicity Heywood, cultural researcher, writer and journalist is concerned with presenting new ways of seeing Africa, indigenous peoples and those marginalised in general. Her work includes curating debate online and off, conducting oral history recordings, and historical research for museums and universities linking it to contemporary experiences.
 

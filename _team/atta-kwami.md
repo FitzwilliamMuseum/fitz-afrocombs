@@ -5,7 +5,7 @@ image:
 institution:
 job-title:
 layout: default
-order: 2
+surname: Kwami
 ---
 Statement for the Afro Comb Project: It is encouraging for my practice to be collaborating on the project, 6000 years of the AFRO COMB. The comb as an aesthetic object has multiple usage, content and possibilities. A wonderful opportunity to re-interpret a vast array of combs from across the African continent.
 

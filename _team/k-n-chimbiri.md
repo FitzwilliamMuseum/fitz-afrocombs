@@ -5,7 +5,7 @@ image: "/images/team/Kandace.jpeg"
 institution:
 job-title:
 layout: default
-order: 2
+surname: Chimbiri
 ---
 K.N. Chimbiri was born in London, England, in 1968 to immigrant parents from Barbados. She is the elder of two sisters. Although they did not have a lot of money, her parents always found a way to give their daughters any book they asked for. The family moved back to Barbados where the author lived until 1994.
 

@@ -5,7 +5,7 @@ image:
 institution: The Fitzwilliam Museum
 job-title:
 layout: default
-order: 2
+surname: Law
 ---
 Rob Law has been working as a technician in the antiquities department at The Fitzwilliam Museum since January 2012. Having studied fine art at Liverpool Polytechnic in the 1980's, he went on to spend most of the 1990's working as an artist in Manchester.
 

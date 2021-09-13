@@ -5,7 +5,7 @@ image: "/images/team/Remke.jpeg"
 institution: "The Fitzwilliam Museum"
 job-title: "Curatorial Assistant"
 layout: default
-order: 1
+surname: Van der Velden
 ---
 Remke van der Velden is Curatorial Assistant at the Fitzwilliam Museum as well as Collections Assistant for Anthropology at the Museum of Archaeology and Anthropology in Cambridge. In the first capacity she assists Sally-Ann Ashton with exhibition research, database management, administrative support and any other curatorial tasks as required. At the MAA Remke manages the daily tasks involved in keeping ethnographic collections in good condition. This includes documenting, photographing and storing objects from Fijian clubs to Burmese paintings, as well as exhibition work.
 

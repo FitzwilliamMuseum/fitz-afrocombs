@@ -4,7 +4,7 @@ twitter: ""
 institution:
 job-title:
 layout: default
-order: 2
+surname: Ife-Oni
 ---
 Andrew C. Ife-Oni is a photographer, filmmaker and graphic designer, whose interests in photography started over 25 years ago and he has exhibited his work in a number of exhibitions. He is self-taught, and what started as hobby has become the main focus of his work.
 

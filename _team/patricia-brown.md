@@ -5,7 +5,7 @@ image: "/images/team/Patricia.jpeg"
 institution:
 job-title:
 layout: default
-order: 2
+surname: Brown
 ---
 Patricia Brown represents community members on the 'Origins of the Afro Comb' committee. A big part of her role is to encourage other people to become involved with the project.
 

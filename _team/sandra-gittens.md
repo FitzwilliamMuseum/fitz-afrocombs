@@ -5,7 +5,7 @@ image: "/images/team/Sandra-Gittens.jpeg"
 institution:
 job-title:
 layout: default
-order: 2
+surname: Gittens
 ---
 Sandra Gittens is author of the book African Caribbean Hairdressing and lecturer in Hairdressing, media styling and the history of African type hair.
 

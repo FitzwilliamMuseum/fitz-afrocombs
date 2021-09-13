@@ -5,7 +5,7 @@ image: "/images/team/sam.jpeg"
 institution:
 job-title:
 layout: default
-order: 2
+surname: Dako
 ---
 Ampem Dako is a young, up and coming writer, artist/performer, who is volunteering for the Afro Comb Project. He thinks the skills he can bring to the committee are, enthusiasm, willingness to help with decisions and a passion for Black History.
 

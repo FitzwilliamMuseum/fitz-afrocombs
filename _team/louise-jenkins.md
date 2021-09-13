@@ -5,7 +5,7 @@ image:
 institution: The Fitzwilliam Museum
 job-title:
 layout: default
-order: 2
+surname: Jenkins
 ---
 Louise Jenkins is the Senior Technician in the Department of Antiquities and has worked at the museum since 1992. Prior to this Louise studied Sculpture at The Camberwell School of Art. Part of Louise's role in the museum is to assist in the practicalities of setting up permanent and temporary exhibitions.
 

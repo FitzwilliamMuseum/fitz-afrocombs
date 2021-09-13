@@ -5,7 +5,7 @@ image: "/images/team/Ohioma-sm.jpeg"
 institution:
 job-title:
 layout: default
-order: 2
+surname: Pogoson
 ---
 Ohioma Ifounu Pogoson is a Senior Research Fellow (Visual Arts) at the Institute of African Studies, University of Ibadan, Nigeria where he teaches postgraduate courses in African Art and Tourism. He received a Ph.D in Visual Arts from the University of Ibadan in 1990. In 1997 with Canadian Jeff Wall, one of this century's greatest artist-photographers as Juror, he was selected for the prestigious fellowship of the Akademie Schloss Solitude in Stuttgart, Germany where he undertook a six month study of the social history of Benin arts after one hundred years in Germany.
 

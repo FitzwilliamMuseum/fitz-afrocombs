@@ -8,6 +8,7 @@ large: https://static.portal.maa.cam.ac.uk/portal-assets/media/library_images/we
 preview: https://static.portal.maa.cam.ac.uk/portal-assets/media/library_images/thumbnail/672605_E_1906.257_001.png
 period: 20th Century
 ---
+{% include structure/image.html %}
 
 Ekpafia
 

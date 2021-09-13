@@ -8,6 +8,8 @@ large: https://static.portal.maa.cam.ac.uk/portal-assets/media/library_images/we
 preview: https://static.portal.maa.cam.ac.uk/portal-assets/media/library_images/thumbnail/664351_E_1911.55.22_001.png
 period: 20th Century
 ---
+{% include structure/image.html %}
+
 Comb - Cane comb with ?reed patterned binding forming the handle. Congo.
 
 Democratic Republic of Congo

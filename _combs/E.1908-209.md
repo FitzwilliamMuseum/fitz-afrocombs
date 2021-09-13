@@ -8,4 +8,6 @@ large: https://static.portal.maa.cam.ac.uk/portal-assets/media/library_images/we
 preview: https://static.portal.maa.cam.ac.uk/portal-assets/media/library_images/thumbnail/664208_E_1908.209_001.png
 period: 20th Century
 ---
+{% include structure/image.html %}
+
 Large flat coarse toothed wooden comb, with deep semi-circular openwork carved back.

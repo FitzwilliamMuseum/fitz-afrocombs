@@ -3,10 +3,6 @@ layout: default
 permalink: /combs/
 title: Explore combs
 ---
-
-<div class="alert alert-danger">The combs section will be populated shortly</div>
-
-
 <div class="container mb-3">
   <div class="row">
   {% assign rows = site.combs.size | divided_by: 2.0 | ceil %}
@@ -16,13 +12,14 @@ title: Explore combs
       {% for author in sorted limit:2 offset:offset %}
       <div class="col-md-4 mb-3">
         <div class="card h-100" >
-          <a href="{{site.url}}{{site.baseurl}}{{ author.permalink }}" class="stretched-link">
-            <img class="card-img-top" src="{{site.url}}{{site.baseurl}}{{author.image}}" alt="Card image cap" width="300" height="300"/>
+          <a href="{{ author.url }}" class="stretched-link">
+            <img class="img-fluid" src="{{author.preview}}" alt="{{ author.title }}" />
           </a>
           <div class="card-body">
             <h3 class="lead mt-2">
-              <a href="{{site.url}}{{site.baseurl}}{{ author.permalink }}" class="stretched-link">{{author.title}}</a>
+              <a href="{{ author.url }}" class="stretched-link">{{author.title}}</a>
             </h3>
+            <a href="btn btn-info">{{ author.categories }}</a>
           </div>
         </div>
       </div>

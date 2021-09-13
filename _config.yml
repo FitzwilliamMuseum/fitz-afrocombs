@@ -58,7 +58,9 @@ collections:
       permalink: /audio/:path/
    combs:
       output: true
-      permalink: /combs/:path/
+      permalink: /combs/:categories/:path/
+   countries:
+      output: true
 feed:
   collections:
     - posts

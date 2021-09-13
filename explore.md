@@ -19,7 +19,11 @@ To explore the Afro combs included in this project, you can navigate several way
       <div class="col-md-4 mb-3">
         <div class="card h-100" >
           <a href="{{ author.url }}" class="stretched-link">
+          {% if author.image %}
             <img class="img-fluid" src="{{author.image}}" alt="{{ author.title }}" />
+          {% else %}
+            <img class="img-fluid" src="https://content.fitz.ms/fitz-website/assets/gallery3_roof.jpg?key=directus-large-crop" />
+          {% endif %}
           </a>
           <div class="card-body">
             <h3 class="lead mt-2">

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Afro Comb Timeline
+permalink: /combs/timeline
 ---
 There are gaps in our timeline of combs. This timeline tracks the evidence that we currently have. Explore combs from the different periods via the links embedded in the timeline.
 

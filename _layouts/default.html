@@ -283,7 +283,8 @@ integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeV
     function addGeoJson(item){
       $.getJSON("/geojson/" + item + ".json",function(data){
         // add GeoJSON layer to the map once the file is loaded
-        L.geoJson(data).addTo(map).setStyle({color :'red', "fillOpacity": .05}) ;
+        L.geoJson(data).addTo(map).setStyle({color :'red', "fillOpacity": .05}).bindPopup("<a href='/combs/" + item + "'>View combs from " + item + "</a>");
+
       });
     }
     countries.forEach(addGeoJson);

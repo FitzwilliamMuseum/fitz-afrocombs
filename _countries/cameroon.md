@@ -1,8 +1,8 @@
 ---
-permalink: /combs/drc/
-title: Combs from Democratic Republic of the Congo
+permalink: /combs/cameroon/
+title: Combs from Cameroon
 layout: default
-label: DRC
+label: Cameroon
 ---
 <div class="container mb-3">
   <div class="row">

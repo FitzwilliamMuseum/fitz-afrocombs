@@ -2,7 +2,8 @@
 permalink: /combs/sierra-leone/
 title: Combs from Sierra Leone
 layout: default
-label: Sierra Leone
+label: Sierra-Leone
+image: https://static.portal.maa.cam.ac.uk/portal-assets/media/library_images/web/904795_Z_14577_A.jpg
 ---
 <div class="container mb-3">
   <div class="row">

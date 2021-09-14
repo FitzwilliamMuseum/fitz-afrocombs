@@ -3,7 +3,9 @@ permalink: /combs/madagascar/
 title: Combs from Madagascar
 layout: default
 label: Madagascar
+image: images/combs/1951.682a_201209_mdb56-VERSO_mas.jpg
 ---
+
 <div class="container mb-3">
   <div class="row">
   {% for post in site.combs %}

@@ -3,6 +3,7 @@ permalink: /combs/ghana/
 title: Combs from Ghana
 layout: default
 label: Ghana
+image: https://afrocombs.fitzmuseum.cam.ac.uk/images/combs/Z-35225_VERSO.jpg
 ---
 <div class="container mb-3">
   <div class="row">

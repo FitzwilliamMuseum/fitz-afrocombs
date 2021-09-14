@@ -22,7 +22,7 @@ To explore the Afro combs included in this project, you can navigate several way
           {% if author.image %}
             <img class="img-fluid" src="{{author.image}}" alt="{{ author.title }}" />
           {% else %}
-            <img class="img-fluid" src="https://content.fitz.ms/fitz-website/assets/gallery3_roof.jpg?key=directus-large-crop" />
+            <img class="img-fluid" src="https://content.fitz.ms/fitz-website/assets/S-A%20Afro%20Combs_2013_03_mdb56-16-1.jpg?key=directus-medium-crop" />
           {% endif %}
           </a>
           <div class="card-body">

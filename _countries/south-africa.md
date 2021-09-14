@@ -3,6 +3,7 @@ permalink: /combs/south-africa/
 title: Combs from South Africa
 layout: default
 label: South-Africa
+image: https://static.portal.maa.cam.ac.uk/portal-assets/media/library_images/thumbnail/678494_2002.61_001.png
 ---
 <div class="container mb-3">
   <div class="row">

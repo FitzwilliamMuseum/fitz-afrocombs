@@ -3,6 +3,7 @@ permalink: /combs/jamaica/
 title: Combs from Jamaica
 layout: default
 label: Jamaica
+image: https://afrocombs.fitzmuseum.cam.ac.uk/images/combs/PlasticCombsBox3_201209_mdb56-RECTO_a_mas.jpg
 ---
 <div class="container mb-3">
   <div class="row">

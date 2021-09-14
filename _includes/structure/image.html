@@ -6,7 +6,13 @@
 {% endif %}
 <p>
   Object record: <a href="{{ page.record}}">{{page.title}}</a><br />
+  {% if page.institution %}
   Holding institution: {{page.institution}}<br />
+  {% endif %}
+  {% if page.period %}
   Period: {{ page.period }}<br />
+  {% endif %}
+  {% if page.categories %}
   Country of Origin: {{page.categories}}
+  {% endif %}
 </p>

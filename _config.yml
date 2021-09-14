@@ -28,6 +28,7 @@ twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
 background: "/images/Home_Header.jpeg"
 main_url: 'https://fitzmuseum.cam.ac.uk'
+logo:  https://static.portal.maa.cam.ac.uk/portal-assets/media/library_images/thumbnail/666080_1921.303_001.png
 google_analytics: 'G-2R0YLY9DRS'
 # Build settings
 plugins:

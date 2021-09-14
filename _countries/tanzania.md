@@ -18,7 +18,13 @@ image: https://static.portal.maa.cam.ac.uk/portal-assets/media/library_images/th
           <h3 class="lead mt-2">
             <a href="{{ post.url }}" class="stretched-link">{{post.title}}</a>
           </h3>
-          <a href="btn btn-info">{{ post.categories }}</a>
+          <p>
+            {{ post.institution }}<br/>
+            <a href="btn btn-info">{{ post.categories }}</a><br/>
+            {% if post.period %}
+            {{ post.period }}
+            {% endif %}
+          </p>
         </div>
       </div>
     </div>

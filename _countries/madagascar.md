@@ -19,7 +19,13 @@ image: https://afrocombs.fitzmuseum.cam.ac.uk/images/combs/1951.682a_201209_mdb5
           <h3 class="lead mt-2">
             <a href="{{ post.url }}" class="stretched-link">{{post.title}}</a>
           </h3>
-          <a href="btn btn-info">{{ post.categories }}</a>
+          <p>
+            {{ post.institution }}<br/>
+            <a href="btn btn-info">{{ post.categories }}</a><br/>
+            {% if post.period %}
+            {{ post.period }}
+            {% endif %}
+          </p>
         </div>
       </div>
     </div>

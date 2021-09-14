@@ -20,7 +20,8 @@ image: "https://media.britishmuseum.org/media/Repository/Documents/2014_11/4_19/
             <a href="{{ post.url }}" class="stretched-link">{{post.title}}</a>
           </h3>
           <p>
-            <a href="btn btn-info">{{ post.categories }}</a>
+            {{ post.institution }}<br/>
+            <a href="btn btn-info">{{ post.categories }}</a><br/>
             {% if post.period %}
             {{ post.period }}
             {% endif %}

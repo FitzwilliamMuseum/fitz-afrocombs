@@ -26,3 +26,11 @@ By looking at archaeological records of burials, and through recording oral hist
 * C. Martín del Río Álvarez and E. Almenara Rosales, ‘An analysis of the theriomorphic respresentations on combs and hairpins from the Predynastic period’, 884, in S. Hendrickx, R.F. Friedman, K.M. Ciałowicz (eds.) Egypt at its Origins. Studies in Memory of Barbara Adams, Orientalia Lovaniensia Analecta 138 (Leuven 2004), 883-89.
 * R. Sieber and F. Herreman (eds.) Hair in African Art and Culture (New York 2000).
 * C. Tulloch, ‘Resounding power of the Afro comb’, 124-25, in G. Biddle-Perry and S. Cheang (eds.) Hair styling culture and fashion (New York 2008), 128-39.
+
+## Contributing museums
+
+Data included within this website comes from:
+
+* [The Museum of Archaeology and Anthropology, Cambridge](https://maa.cam.ac.uk) (MAA)
+* [The British Museum](https://britishmuseum.org)
+* [The Fitzwilliam Museum](https://fitzmuseum.cam.ac.uk)

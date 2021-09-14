@@ -1,6 +1,6 @@
 ---
-title: EA.69245
-categories: Egypt
+title: EA.77507
+categories: Sudan
 institution: Department of Ancient Egypt and Sudan, The British Museum
 layout: default
 record: https://www.britishmuseum.org/collection/object/Y_EA77507

@@ -1,6 +1,6 @@
 ---
 title: EA.77658
-categories: Egypt
+categories: Sudan
 institution: Department of Ancient Egypt and Sudan, The British Museum
 layout: default
 record: https://www.britishmuseum.org/collection/object/Y_EA77658

@@ -9,4 +9,6 @@ preview: https://media.britishmuseum.org/media/Repository/Documents/2014_11/4_19
 period: Late Antique
 
 ---
+{% include structure/image.html %}
+
 One-half of a carved, highly polished, dark brown ebony comb which is solid in the centre with 11 fine, closely spaced teeth on one side (8 teeth per cm). Some teeth are missing. On both sides, the edges of the comb handle are decorated with 11 closely spaced incised figures consisting of 2 concentric circles around a dot. The figures were inlaid with silver.

@@ -9,9 +9,6 @@ preview: https://media.britishmuseum.org/media/Repository/Documents/2014_11/4_19
 period: Late Antique
 
 ---
+{% include structure/image.html %}
 
-Sudan, Kulubnarti
-
-wood
-
-[Department of Ancient Egypt and Sudan, The British Museu
+A carved, highly polished, brown ebony comb which is solid in the centre with fine teeth on one side and coarser ones on the other side. There are 19 large teeth on one side (5 per cm) and 35 small teeth on the other side (10 teeth per cm). The ends of the teeth do not form a straight line but a slightly concave one with the ends being wider than the middle.

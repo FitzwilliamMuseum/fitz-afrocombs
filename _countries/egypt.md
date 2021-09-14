@@ -19,7 +19,12 @@ image: "https://media.britishmuseum.org/media/Repository/Documents/2014_11/4_19/
           <h3 class="lead mt-2">
             <a href="{{ post.url }}" class="stretched-link">{{post.title}}</a>
           </h3>
-          <a href="btn btn-info">{{ post.categories }}</a>
+          <p>
+            <a href="btn btn-info">{{ post.categories }}</a>
+            {% if post.period %}
+            {{ post.period }}
+            {% endif %}
+          </p>
         </div>
       </div>
     </div>

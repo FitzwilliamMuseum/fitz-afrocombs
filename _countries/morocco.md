@@ -3,7 +3,7 @@ permalink: /combs/morocco/
 title: Combs from Morocco
 layout: default
 label: Morocco
-image: https://afrocombs.fitzmuseum.cam.ac.uk/images/combs/E.1912.40_201209_mdb56-RECTO_mas.jpg
+image: https://static.portal.maa.cam.ac.uk/portal-assets/media/library_images/thumbnail/643001_E_1912.40_001.jpg
 ---
 <div class="container mb-3">
   <div class="row">

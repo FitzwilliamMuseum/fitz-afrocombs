@@ -3,6 +3,7 @@ permalink: /combs/tanzania/
 title: Combs from Tanzania
 layout: default
 label: Tanzania
+image: https://static.portal.maa.cam.ac.uk/portal-assets/media/library_images/thumbnail/662617_E_1894.34.2_002.png
 ---
 <div class="container mb-3">
   <div class="row">

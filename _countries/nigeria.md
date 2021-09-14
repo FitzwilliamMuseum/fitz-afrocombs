@@ -12,11 +12,7 @@ image: https://static.portal.maa.cam.ac.uk/portal-assets/media/library_images/th
     <div class="col-md-4 mb-3">
       <div class="card h-100" >
         <a href="{{ post.url }}" class="stretched-link">
-        {% if post.preview %}
-          <img class="img-fluid" src="{{post.preview}}" alt="{{ post.title }}" />
-        {% else %}
-          <img class="img-fluid" src="https://content.fitz.ms/fitz-website/assets/S-A%20Afro%20Combs_2013_03_mdb56-16-1.jpg?key=directus-medium-crop" />
-        {% endif %}
+        {% include structure/comb-image.html %}
         </a>
         <div class="card-body">
           <h3 class="lead mt-2">

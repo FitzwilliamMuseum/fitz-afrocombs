@@ -3,6 +3,8 @@ permalink: /combs/sudan/
 title: Combs from Sudan
 layout: default
 label: Sudan
+image: https://media.britishmuseum.org/media/Repository/Documents/2014_11/4_19/b264cc65_d1ac_424a_8f03_a3d9013e8ab2/small_01189026_001.jpg
+
 ---
 <div class="container mb-3">
   <div class="row">

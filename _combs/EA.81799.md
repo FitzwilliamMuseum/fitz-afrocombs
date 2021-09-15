@@ -1,6 +1,6 @@
 ---
 title: EA.81799
-categories: [Egypt, Nubia]
+categories: [Nubia]
 institution: The British Museum
 layout: default
 record: https://www.britishmuseum.org/collection/object/Y_EA81799

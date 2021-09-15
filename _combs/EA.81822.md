@@ -1,6 +1,6 @@
 ---
 title: EA.81822
-categories: Egypt
+categories: Nubia
 institution: The British Museum
 layout: default
 record: https://www.britishmuseum.org/collection/object/Y_EA81822

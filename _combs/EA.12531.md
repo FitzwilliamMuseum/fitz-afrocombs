@@ -1,6 +1,6 @@
 ---
 title: EA.12531
-categories: Egypt
+categories: Nubia
 institution: Department of Ancient Egypt and Sudan, The British Museum
 layout: default
 record: https://www.britishmuseum.org/collection/object/Y_EA12531

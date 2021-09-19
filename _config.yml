@@ -21,7 +21,8 @@
 title: "Origins of the Afro comb"
 email: "dejp3@cam.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
-  "Hair and grooming have always played an important role in the culture of Africa and the African Diaspora. The traditional African comb or pick has played a crucial role in the creation, maintenance, and decoration of hair-styles for both men and women."
+  Hair and grooming have always played an important role in the culture of
+  Africa and the African Diaspora."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://afrocombs.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK

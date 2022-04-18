@@ -1,5 +1,7 @@
 # Origins of the Afrocomb
 
+[![DOI](https://zenodo.org/badge/405576444.svg)](https://zenodo.org/badge/latestdoi/405576444)
+
 ![afrocomb](https://user-images.githubusercontent.com/286552/163885056-bcf92a73-519f-4edc-8bca-bc439d569d11.jpg)
 
 

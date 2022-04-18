@@ -1,5 +1,8 @@
 # Origins of the Afrocomb
 
+![afrocomb](https://user-images.githubusercontent.com/286552/163885056-bcf92a73-519f-4edc-8bca-bc439d569d11.jpg)
+
+
 Hair and grooming have always played an important role in the culture of Africa and the African Diaspora. The traditional African comb or pick has played a crucial role in the creation, maintenance, and decoration of hair-styles for both men and women.
 
 In many African societies, ancient and modern, the hair comb symbolises status, group affiliation, and religious beliefs, and is encoded with ritual properties. The handles of combs are decorated with objects of status, such as the headrest, human figures, and motifs that reference nature and the traditional spiritual world.

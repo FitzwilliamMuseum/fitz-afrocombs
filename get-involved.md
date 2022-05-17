@@ -15,6 +15,6 @@ The idea for this project came from working with groups in prison as part of an 
 
 Throughout the project classes are also being run in a number of prisons. The material that people have written as part of this work can be found under general community writings.
 
-### Writings
+### [Writings](/written)
 
 Here are some of the pieces that community members, both in Britain and abroad, have written for the project. If you would like to add your own work to this part of the site please contact us.

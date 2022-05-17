@@ -63,6 +63,10 @@ collections:
       permalink: /combs/:categories/:path/
    countries:
       output: true
+   written:
+     output: true
+     permalink: /combs/written/:path/
+
 feed:
   collections:
     - posts

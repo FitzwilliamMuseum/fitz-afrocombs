@@ -26,7 +26,7 @@ var klaroConfig = {
     privacyPolicy: 'https://www.fitzmuseum.cam.ac.uk/website/cookiepolicy',
     
     // Defines the default state for applications (true=enabled by default).
-    default: true,
+    default: false,
 
     // If "mustConsent" is set to true, Klaro will directly display the consent
     // manager modal and not allow the user to close it before having actively
@@ -94,7 +94,7 @@ var klaroConfig = {
             // Overwrites global "default" setting.
             // We recommend leaving this to "false" for apps that collect
             // personal information.
-            default: true,
+            default: false,
 
             // The title of you app as listed in the consent modal.
             title : 'Google Analytics',
@@ -151,16 +151,21 @@ var klaroConfig = {
             name : 'vimeo',
             title : 'Vimeo',
             purposes : ['analytics'],
+            default: false,
+
         },
         {
             name : 'youtube',
             title : 'YouTube',
             purposes : ['advertising'],
+            default: false,
+
         },
         {
             name : 'doubleclick',
             title : 'DoubleClick',
             purposes : ['advertising'],
+            default: false,
         },
     ],
 }

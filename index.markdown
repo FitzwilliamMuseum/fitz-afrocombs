@@ -12,20 +12,3 @@ In many African societies, ancient and modern, the hair comb symbolises status, 
 In the 20th century 'afro' combs have taken on a wider political and cultural message, perhaps most notably in the form of the 'black fist' comb that references the Black power salute.
 
 By looking at archaeological records of burials, and through recording oral histories in modern societies it is hoped the project will provide a much better understanding of the status of this iconic object and the spiritual and societal status it can hold. This project aims to trace the history and the meaning of the African hair comb over nearly 6000 years in Africa, through to its re-emergence amongst the Diaspora in the Americas, Britain and the Caribbean.
-
-### Introducing the project
-
-Two interviews with Sally-Ann Ashton, exhibition curator.
-
-<div class="row">
-  <div class="col-md-6">
-    <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/uvEyaeZ0G4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-  </div>
-  <div class="col-md-6">
-    <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zDkScLTwJ4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-  </div>
-</div>
